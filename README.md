@@ -2,20 +2,20 @@
 
 ## Technologies
     Frontend
-        React
-        Bootstrap
+        =>React
+        =>Bootstrap
     
     Backend
-        Nodejs
+        =>Nodejs
 
     Smart Contract
-        Solidity
-        Openzeppelin
-        Truffle
+        =>Solidity
+        =>Openzeppelin
+        =>Truffle
 
 
 ### Architecture
-<img src="" alt="img">
+<img src="../images/flowchart.png" alt="img">
 
 #### Author
     Abdihakim Abdirahman
