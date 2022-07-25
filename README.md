@@ -15,7 +15,7 @@
 
 
 ### Architecture
-<img src="../images/flowchart.png" alt="img">
+<img src="images/flowchart.png" alt="img">
 
 #### Author
     Abdihakim Abdirahman
